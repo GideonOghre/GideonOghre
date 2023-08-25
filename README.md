@@ -1,5 +1,8 @@
 <h1 align="left">Hi, my name is Gideon Oghre</h1>
-<h3 align="left">I am a Cloud Computing Engineer</h3>
+<h3 align="left">I am a Cloud Computing Engineer.</h3>
+I am a cloud engineer that is a graduate of the University of Essex. 
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gideonoghre&label=Profile%20views&color=0e75b6&style=flat" alt="gideonoghre" /> </p>
 
